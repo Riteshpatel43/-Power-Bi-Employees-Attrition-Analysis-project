@@ -1,5 +1,7 @@
 # Employee Attrition Dashboard in Power BI
 
+## View Online : https://www.youtube.com/watch?v=3Vc7UpOvtfk
+
 ## Overview
 The Employee Attrition Dashboard provides an interactive and comprehensive analysis of employee turnover and satisfaction within the organization. It enables HR teams and business leaders to understand attrition patterns and key metrics, facilitating better workforce planning and employee engagement strategies.
 
